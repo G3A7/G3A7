@@ -31,7 +31,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs.svg" alt="nextjs" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/> 
     </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -48,8 +48,8 @@
 </p>
 
 <h3 align="left">Ninja Zyan:</h3>
-<p align="left">
-    <img src="https://media.tenor.com/L5WfB1FUpR8AAAAC/ninja-zyan.gif" alt="Ninja Zyan" width="200"/>
+<p align="center">
+    <img src="https://media1.tenor.com/m/A0AvwU3AsnMAAAAC/ninja-zyan.gif" alt="Ninja Zyan" width="200"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3a7&show_icons=true&locale=en&layout=compact" alt="g3a7" /></p>
