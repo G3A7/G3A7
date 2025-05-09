@@ -5,7 +5,7 @@
 <img align="right" height="150" src="https://i.makeagif.com/media/12-18-2022/lQapNA.gif"  />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=400&lines=I+am+a+Frontend+Developer" alt="Glowing Text" style="font-style: italic; text-shadow: 2px 2px 10px #FF69B4;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=400&lines=I+am+a+MERN+Stack+Developer" alt="Glowing Text" style="font-style: italic; text-shadow: 2px 2px 10px #FF69B4;">
 </h3>
 
 ###
