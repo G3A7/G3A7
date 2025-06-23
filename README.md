@@ -5,7 +5,7 @@
 <img align="right" height="150" src="https://i.makeagif.com/media/12-18-2022/lQapNA.gif"  />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=400&lines=I+am+a+MERN+Stack+Developer" alt="Glowing Text" style="font-style: italic; text-shadow: 2px 2px 10px #FF69B4;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=400&lines=I+am+a+Frontend+Developer" alt="Glowing Text" style="font-style: italic; text-shadow: 2px 2px 10px #FF69B4;">
 </h3>
 
 ###
@@ -35,17 +35,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
 ###
